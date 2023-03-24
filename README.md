@@ -12,7 +12,7 @@ This analysis is based on a dataset with information regarding layoffs across th
 
 
 ## INSIGHTS
-* Total layoffs was 281, 969 across all industries in ll countries in the dataset.
+* Total layoffs was 281, 969 across all industries in all countries in the dataset.
 * January had the highest number of total layoffs (61,724 employees) while September recorded the least layoffs (4,273 employees)
 * Q1 had the highest number of layoffs (103,455) while Q3 had the least layoffs(28,930)
 * Amazon had the highest number of layoffs (18,000) followed by Google and Meta based on Top 8 companies with highest layoffs. Cisco recorded the least layoffs in the category (4,100).
@@ -25,4 +25,4 @@ This analysis is based on a dataset with information regarding layoffs across th
 * Pivot tables
 * Visualization
 
-You can get the dataset [Here]([https://www.kaggle.com/datasets/dc0e09e5c6a808eedf06d57474263925202d84f9c35fabd6a447eab52fb1957f) 
+You can get the dataset [https://www.kaggle.com/datasets/dc0e09e5c6a808eedf06d57474263925202d84f9c35fabd6a447eab52fb1957f]([https://www.kaggle.com/datasets/dc0e09e5c6a808eedf06d57474263925202d84f9c35fabd6a447eab52fb1957f) 
