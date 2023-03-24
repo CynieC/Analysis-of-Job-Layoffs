@@ -25,4 +25,4 @@ This analysis is based on a dataset with information regarding layoffs across th
 * Pivot tables
 * Visualization
 
-You can get the dataset [https://www.kaggle.com/datasets/dc0e09e5c6a808eedf06d57474263925202d84f9c35fabd6a447eab52fb1957f]([https://www.kaggle.com/datasets/dc0e09e5c6a808eedf06d57474263925202d84f9c35fabd6a447eab52fb1957f) 
+You can get the dataset [Here]([https://www.kaggle.com/datasets/dc0e09e5c6a808eedf06d57474263925202d84f9c35fabd6a447eab52fb1957f) 
